@@ -1,13 +1,14 @@
-## Clyon Jackson
+# Clyon Jackson
+twitter: @clyon_jackson
+email: ClyonKJ@gmail.com
 
-### Education
-```
+### 🏫 Education 
 CUNY Baruch College – Zicklin School   of   Business New York, NY 
 Bachelor of Business Administration, May 2014
 Course of Study: Entrepreneurship, Accounting, Information Studies & Social Responsibility
-```
 
-# Amalgamated Bank							          
+
+### Amalgamated Bank							          
 February 2017  -  August 2017
 Software Developer
 
