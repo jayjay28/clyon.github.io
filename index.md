@@ -24,7 +24,7 @@ Software Developer
 * Collaborated with fellows to build a  communications application for Hillary Clinton’s “Rock the Vote” using Twilio’s SMS API
 * Built applications using public APIs and python web frameworks.
 
-### Robert Half /Accountemps						               
+### Robert Half					               
 June 2016 - August 2016
 Role: Financial Analyst
 Client: Cushman & Wakefield
@@ -36,7 +36,7 @@ Client: NYU Langone & School of Medicine
 * Developed financial models to track unauthorized p-card expenses for employees
 * Created test scripts for financial reports in production
 
-### Robert Half /Accountemps						        
+### Robert Half					        
 August 2015 - February 2016
 Role: Financial Analyst
 Analyzed sales operations against competitors,using charts, graphs and explanatory texts.
