@@ -1,18 +1,18 @@
 ## Clyon Jackson
 
-## Education
+### Education
 ```
 CUNY Baruch College – Zicklin School   of   Business New York, NY 
 Bachelor of Business Administration, May 2014
 Course of Study: Entrepreneurship, Accounting, Information Studies & Social Responsibility
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Amalgamated Bank							          
+February 2017  -  August 2017
+Role: Software Developer
+Developed proprietary solutions to automate the approval and denial of employee credit card applications
+Designed Web-based ASP.NET Internet applications linked to firm-wide SQL databases
+Formulated business reports using  firm-wide SQL databases 
+Tested and maintained various Simple Object Access Protocol (SOAP) web services 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jayjay28/clyon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
