@@ -3,15 +3,11 @@ You can use the [editor on GitHub](https://github.com/jayjay28/clyon.github.io/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-EDUCATION
-CUNY   Baruch   College   – Zicklin   School   of   Business                            New   York,   NY Bachelor   of   Business   Administration,   May   2014
+## EDUCATION
+```
+CUNY Baruch College – Zicklin School   of   Business                            
+New York, NY 
+Bachelor of Business Administration, May 2014
 Course   of   Study:    Entrepreneurship,   Accounting,   Information   Studies   &   Social   Responsibility
 ```
 
