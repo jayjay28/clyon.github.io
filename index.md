@@ -2,7 +2,7 @@
 twitter: @clyon_jackson
 email: ClyonKJ@gmail.com
 
-### 🏫 Education 
+### Education 
 CUNY Baruch College – Zicklin School   of   Business New York, NY 
 Bachelor of Business Administration, May 2014
 Course of Study: Entrepreneurship, Accounting, Information Studies & Social Responsibility
@@ -17,4 +17,11 @@ Software Developer
 * Formulated business reports using  firm-wide SQL databases 
 * Tested and maintained various Simple Object Access Protocol (SOAP) web services 
 
+### Code for Progress							          
+August 2016 - January 2017
+Software Developer
+
+* Develop financial platform for investment and savings using the Python, Plaid API and SQL
+* Collaborated with fellows to build a  communications application for Hillary Clinton’s “Rock the Vote” using Twilio’s SMS API
+* Built applications using public APIs and python web frameworks.
 
