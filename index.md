@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
+## Clyon Jackson
 You can use the [editor on GitHub](https://github.com/jayjay28/clyon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -11,19 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+EDUCATION
+CUNY   Baruch   College   – Zicklin   School   of   Business                            New   York,   NY Bachelor   of   Business   Administration,   May   2014
+Course   of   Study:    Entrepreneurship,   Accounting,   Information   Studies   &   Social   Responsibility
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
