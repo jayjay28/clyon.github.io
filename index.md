@@ -1,6 +1,7 @@
+![Image](https://pbs.twimg.com/profile_images/914981366722375681/nj4GnwaD_bigger.jpg)
 # Clyon Jackson
 twitter: @clyon_jackson | email: ClyonKJ@gmail.com
-
+im
 ### Education 
 CUNY Baruch College – Zicklin School   of   Business New York, NY 
 Bachelor of Business Administration, May 2014
